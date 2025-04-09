@@ -89,7 +89,7 @@ body {
 
 .container ul {
   text-align: right;
-  margin-right: -800px;
+  margin-right: -750px;
   text-align: center;
 }
 
@@ -97,7 +97,7 @@ body {
   display: inline;
   margin-left: 50px;
   font-size: 20px;
-  font-weight: 500px;
+  margin-right: 25px;
 }
 
 .container ul li a {
@@ -138,9 +138,8 @@ body {
 }
 
 .submenu li a {
-  margin-left: -25px ;
+  margin-left: -25px;
 }
-
 
 .dropdown:hover .submenu {
   opacity: 1;
