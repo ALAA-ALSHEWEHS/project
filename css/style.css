@@ -829,20 +829,6 @@ body {
   text-transform: capitalize;
 }
 
-.title1 {
-  font-size: 100px;
-  text-align: center;
-  margin-top: 200px;
-}
-
-.line {
-  display: inline-block;
-  width: 200px;
-  height: 10px;
-  background-color: rgba(32, 3, 104);
-  margin: auto;
-}
-
 .section8 {
   margin: 100px auto;
   width: 100%;
@@ -986,7 +972,7 @@ img {
   margin: 20px 0 0 20px;
   font-size: 20px;
   color: rgba(32, 3, 104);
-  cursor: pointer;
+  
 }
 
 .section9-content-img i span {
